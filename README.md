@@ -15,7 +15,6 @@ Born and raised in Texas, now in NYC 📍 I'm a **self-taught developer** with a
 <br>
 <br>
 **Interests**
-<br>
 - Rock climbing (_The Road to V5_) 🧗
 - Running along the Hudson River 🏃
 - Reading books by Cormac McCarthy 📚
