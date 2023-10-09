@@ -8,7 +8,7 @@ I'm currently working on [Ecom_Mahjong](https://github.com/jordaz14/Ecom_Mahjong
 
 **Skills**
 <br>
-`Python` `JavaScript` `HTML` `CSS` `PostgreSQL`
+`Python` `JavaScript` `HTML` `CSS` `PostgreSQL` `React`
 <br>
 <br>
 **Education**
