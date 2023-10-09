@@ -19,7 +19,7 @@ I'm currently working on [Ecom_Mahjong](https://github.com/jordaz14/Ecom_Mahjong
 <br>
 <br>
 **Interests**
-- Rock climbing (_The Road to V5_) 🧗
+- Rock climbing (_The Road to V6_) 🧗
 - Running along the Hudson River 🏃
 - Reading books by Cormac McCarthy 📚
 
