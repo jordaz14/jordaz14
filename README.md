@@ -13,7 +13,7 @@ I've built [BookingApp_Salon](https://github.com/jordaz14/BookingApp_Salon), whe
 <br>
 🤘 The University of Texas at Austin - Quantitative Finance, Statistical Modeling, Philosophy (2022)
 <br>
-💻 Harvard CS50 - Introduction to Computer Science (2023), Web Programming with Python and JavaScript (In Progress)
+💻 Harvard CS50 - Introduction to Computer Science (2023)
 <br>
 <br>
 **Interests**
