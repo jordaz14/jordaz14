@@ -2,7 +2,14 @@ Hi, I'm **Julian**.
 
 Born and raised in Texas, now in NYC 📍 I'm a **self-taught developer** with a strong, quantitative background in Finance and Corporate Strategy.
 
-I've built [BookingApp_Salon](https://github.com/jordaz14/BookingApp_Salon), where I used Flask, PostgreSQL, and JavaScript to build a booking app for my Mom's salon; also [Ecom_Mahjong](https://github.com/jordaz14/Ecom_Mahjong), where I used React and Express to create an ecommerce platform for a Mahjong social club.
+I've built:
+<br>
+• [Glossary_Bot](https://github.com/jordaz14/slack-glossary-bot) - where I used JavaScript and Bolt to create a glossary bot in Slack.
+<br>
+• [BookingApp_Salon](https://github.com/jordaz14/BookingApp_Salon) - where I used Flask, PostgreSQL, and JavaScript to build a booking app for my Mom's salon.
+<br>
+• [Ecom_Mahjong](https://github.com/jordaz14/Ecom_Mahjong) - where I used React and Express to create an ecommerce platform for a Mahjong social club.
+<br>
 
 **Skills**
 <br>
