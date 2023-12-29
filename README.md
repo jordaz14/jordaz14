@@ -6,7 +6,7 @@ I've built [BookingApp_Salon](https://github.com/jordaz14/BookingApp_Salon), whe
 
 **Skills**
 <br>
-`Python` `JavaScript` `HTML` `CSS` `PostgreSQL` `React` `Flask` `Express`
+`Python` `JavaScript` `HTML` `CSS` `PostgreSQL` `React` `Flask` `Express` `Bolt`
 <br>
 <br>
 **Education**
