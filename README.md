@@ -13,7 +13,7 @@ I've built:
                     
 **Skills**
 <br>
-`JavaScript` `React.js` `HTML/CSS` `SQL` `PostgreSQL` `Express.js` `Python`  `PostgreSQL` `Flask` `Bolt`
+`JavaScript` `React.js` `HTML/CSS` `SQL` `PostgreSQL` `Express.js` `Next.js` `Python` `Flask` `Bolt` `C`
 <br>
 <br>
 **Education**
