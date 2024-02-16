@@ -22,6 +22,7 @@ I've built:
 <br>
 💻 Harvard CS50 - Introduction to Computer Science (2023)
 <br>
+💻 [The Odin Project](https://github.com/jordaz14/the-odin-project) - Full-Stack Web Developer (In Progress)
 <br>
 **Interests**
 - Rock climbing (_The Road to V6_) 🧗
