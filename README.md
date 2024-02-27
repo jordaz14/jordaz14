@@ -24,6 +24,7 @@ I've built:
 <br>
 💻 [The Odin Project](https://github.com/jordaz14/the-odin-project) - Full-Stack Web Developer (In Progress)
 <br>
+<br>
 **Interests**
 - Rock climbing (_The Road to V6_) 🧗
 - Running along the Hudson River 🏃
