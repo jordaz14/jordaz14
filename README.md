@@ -29,7 +29,7 @@ I've built:
 - Rock climbing (_The Road to V6_) 🧗
 - Running along the Hudson River 🏃
 - Reading books by Cormac McCarthy 📚
-- Writing my [blog](https://2srs.lol/)
+- Writing my [blog](https://2srs.lol/) ✏️
 
 **Contact me** at 1julianordaz@gmail.com
 
