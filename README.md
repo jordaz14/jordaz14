@@ -1,6 +1,6 @@
-Hi, I'm **Julian**.
+Hi, I'm **Julian** 👋
 
-Born and raised in Texas, now in NYC 📍 I'm a **self-taught developer** with a strong, quantitative background in Finance and Corporate Strategy.
+I like using data & code to solve strategic problems.
 
 I've built:
 <br>
@@ -22,7 +22,7 @@ I've built:
 <br>
 💻 Harvard CS50 - Introduction to Computer Science (2023)
 <br>
-💻 [The Odin Project](https://github.com/jordaz14/the-odin-project) - Full-Stack Web Developer (In Progress)
+💻 [The Odin Project](https://github.com/jordaz14/the-odin-project) - Full-Stack Development (In Progress)
 <br>
 <br>
 **Interests**
