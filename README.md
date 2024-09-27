@@ -9,5 +9,6 @@ I graduated from The University of Texas at Austin in 2022 with a degree in fina
 
 - 🧠 **Currently learning:** unit testing & test-driven development
 - 🔨 **Currently working on:** [nearhere](https://github.com/jordaz14/geo-journal-react-app) - a react app using QR codes to connect people in physical spaces
+- 🤝 **Contributed to:** [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/70423) - an open source repository for TypeScript type definitions
 - 💻 **Let's talk about:** runtime environments and concurrency models
 
